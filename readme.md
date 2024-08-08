@@ -132,7 +132,7 @@ Github commits
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[repo-license]: https://img.shields.io/github/license/eymankun/badges.svg
+[repo-license]: https://img.shields.io/badge/License-MIT-blue.svg
 [github-license-link]: https://github.com/eymankun/badges/blob/main/LICENSE
 [markdown-badge]: https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg
 [common-mark]: http://commonmark.org
