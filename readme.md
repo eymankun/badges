@@ -2,8 +2,8 @@
 
 This list is taken from [Naereen/badges](https://github.com/Naereen/badges).
 
-[![GitHub license](https://img.shields.io/github/license/eymankun/genie)](https://github.com/eymankun/genie/blob/main/LICENSE)
-[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+[![GitHub license][repo-license]][github-license-link]
+[![made-with-Markdown][markdown-badge]][common-mark]
 
 <details>
 <summary>Table of contents</summary>
@@ -17,10 +17,11 @@ This list is taken from [Naereen/badges](https://github.com/Naereen/badges).
 - [Markdown related](#markdown-related)
 - [Latex related](#latex-related)
 - [Website up/down](#website-updown)
-- [Todo](#todo)
 - [Reference](#reference)
 
 </details>
+
+<!-- ## How to use -->
 
 ## Generic
 
@@ -69,13 +70,13 @@ Github license
 [![GitHub license](https://img.shields.io/github/license/eymankun/genie)](https://github.com/eymankun/genie/blob/main/LICENSE)
 
 ```markdown
-[![GitHub license](https://img.shields.io/github/license/eymankun/genie)](https://github.com/eymankun/genie/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/eymankun/{repo_name})](https://github.com/eymankun/{repo_name}/blob/main/LICENSE)
 ```
 
 [![GitHub license](https://badgen.net/github/license/eymankun/genie)](https://github.com/eymankun/genie/blob/main/LICENSE)
 
 ```markdown
-[![GitHub license](https://badgen.net/github/license/eymankun/genie)](https://github.com/eymankun/genie/blob/main/LICENSE)
+[![GitHub license](https://badgen.net/github/license/eymankun/{repo_name})](https://github.com/eymankun/{repo_name}/blob/main/LICENSE)
 ```
 
 Github commits
@@ -83,13 +84,13 @@ Github commits
 [![GitHub commits](https://badgen.net/github/commits/eymankun/genie)](https://GitHub.com/eymankun/genie/commit/)
 
 ```markdown
-[![GitHub commits](https://badgen.net/github/commits/eymankun/genie)](https://GitHub.com/eymankun/genie/commit/)
+[![GitHub commits](https://badgen.net/github/commits/eymankun/{repo_name})](https://GitHub.com/eymankun/{repo_name}/commit/)
 ```
 
 [![GitHub latest commit](https://badgen.net/github/last-commit/eymankun/genie)](ttps://GitHub.com/eymankun/genie/commit/)
 
 ```markdown
-[![GitHub latest commit](https://badgen.net/github/last-commit/eymankun/genie)](ttps://GitHub.com/eymankun/genie/commit/)
+[![GitHub latest commit](https://badgen.net/github/last-commit/eymankun/{repo_name})](ttps://GitHub.com/eymankun/{repo_name}/commit/)
 ```
 
 [![Naereen's github stats](https://github-readme-stats.vercel.app/api?username=eymankun&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
@@ -124,14 +125,14 @@ Github commits
 
 [![Website eymankun-page](https://img.shields.io/website-up-down-green-red/http/eymankun.gitlab.io/bio-page.svg)](https://eymankun.gitlab.io/bio-page/)
 
-
-
-## Todo
-
-- [ ] add gitlab related badges
-- [ ] add useful badges
-- [ ] ad feedback badges
-
 ## Reference
 
 [Naereen/badges](https://github.com/Naereen/badges)
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+[repo-license]: https://img.shields.io/github/license/eymankun/badges.svg
+[github-license-link]: https://github.com/eymankun/badges/blob/main/LICENSE
+[markdown-badge]: https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg
+[common-mark]: http://commonmark.org
