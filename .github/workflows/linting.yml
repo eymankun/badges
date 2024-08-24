@@ -14,5 +14,5 @@ jobs:
             - name: Lint markdown
               uses: avto-dev/markdown-lint@v1
               with:
-                rules: ./.github/workflows/markdown-lint-config.yml
+                rules: './.github/workflows/markdown-lint-config.yml'
                 args: "**/*.md" # Linting all markdown files
