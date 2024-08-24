@@ -1,0 +1,17 @@
+name: Markdown Lint
+
+on:
+    push:
+        branches:
+            - dev
+
+jobs:
+    markdown-lint:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v4
+
+            - name: Lint markdown
+              uses: docker://avtdev/markdown-lint:v1
+              with:
+                args: "**/*.md" # Linting all markdown files
