@@ -12,6 +12,6 @@ jobs:
             - uses: actions/checkout@v4
 
             - name: Lint markdown
-              uses: docker://avtdev/markdown-lint:v1
+              uses: avto-dev/markdown-lint@v1
               with:
                 args: "**/*.md" # Linting all markdown files
