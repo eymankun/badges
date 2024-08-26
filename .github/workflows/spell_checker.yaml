@@ -14,9 +14,12 @@ jobs:
               name: Check out the code
             
             - uses: actions/setup-node@v1
-              name: Run spell check
+              name: Set up node
               with:
                 node-version: "12"
 
-            - run: npm install -g cspell
+            - run: npm install -g cspell@latest
+              name: Install cspell@latest
+
             - run: cspell --config /config/cSpell.json --no-progress "**/*.md"
+              name: Run cSpell
