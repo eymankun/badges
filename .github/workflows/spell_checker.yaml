@@ -21,5 +21,5 @@ jobs:
             - run: npm install -g cspell@latest
               name: Install cspell@latest
 
-            - run: cspell --config /config/cSpell.json --no-progress "**/*.md"
+            - run: cspell --config ./config/cSpell.json --no-progress "**/*.md"
               name: Run cSpell
