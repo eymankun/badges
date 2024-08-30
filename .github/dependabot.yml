@@ -1,0 +1,13 @@
+version: 2
+updates:
+  - package-ecosystem: "github-actions" # Checks for updates in GitHub Actions workflows
+    directory: "/" # Root directory where the workflows are stored (usually under .github/workflows/)
+    target-branch: dev
+    schedule:
+      interval: "weekly" # Check for updates weekly
+      day: wednesday
+    # open-pull-requests-limit: 5 # Limit the number of open PRs from Dependabot
+    commit-message:
+      prefix: "👷"
+    # labels:
+    #   - "dependencies"
