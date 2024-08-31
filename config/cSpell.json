@@ -4,7 +4,7 @@
     "dictionaryDefinitions": [
       {
         "name": "project-words",
-        "path": "./config/project-words.txt",
+        "path": "./project-words.txt",
         "addWords": true
       }
     ],
