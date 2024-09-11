@@ -1,10 +1,10 @@
-<!--markdownlint-disable MD041 MD022 MD032 MD007 -->
 ---
 name: "Feature request \U0001F680"
 about: Suggest an idea
 labels: enhancement
 
 ---
+<!--markdownlint-disable MD041 MD022 MD032 MD007 -->
 
 ## Summary
 Brief explanation of the feature.

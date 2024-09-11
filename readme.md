@@ -11,9 +11,11 @@ This list is taken from [Naereen/badges](https://github.com/Naereen/badges).
 - [Generic](#generic)
 - [License](#license)
 - [Github related](#github-related)
-- [Gitlab related](#gitlab-related)
-- [Useful](#useful)
-- [Feedback](#feedback)
+  - [Github license](#github-license)
+  - [Github commits](#github-commits)
+  - [Github branches](#github-branches)
+  - [Github Versions/Tags/Commits](#github-versionstagscommits)
+  - [Github readme profile](#github-readme-profile)
 - [Markdown related](#markdown-related)
 - [Latex related](#latex-related)
 - [Website up/down](#website-updown)
@@ -65,45 +67,127 @@ Unlicense
 
 ## Github related
 
-Github license
+### Github license
 
 [![GitHub license](https://img.shields.io/github/license/eymankun/genie)](https://github.com/eymankun/genie/blob/main/LICENSE)
 
 ```markdown
-[![GitHub license](https://img.shields.io/github/license/eymankun/{repo_name})](https://github.com/eymankun/{repo_name}/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/eymankun/reponame)](https://github.com/eymankun/reponame/blob/main/LICENSE)
 ```
 
 [![GitHub license](https://badgen.net/github/license/eymankun/genie)](https://github.com/eymankun/genie/blob/main/LICENSE)
 
 ```markdown
-[![GitHub license](https://badgen.net/github/license/eymankun/{repo_name})](https://github.com/eymankun/{repo_name}/blob/main/LICENSE)
+[![GitHub license](https://badgen.net/github/license/eymankun/reponame)](https://github.com/eymankun/reponame/blob/main/LICENSE)
 ```
 
-Github commits
+### Github commits
 
 [![GitHub commits](https://badgen.net/github/commits/eymankun/genie)](https://GitHub.com/eymankun/genie/commit/)
 
 ```markdown
-[![GitHub commits](https://badgen.net/github/commits/eymankun/{repo_name})](https://GitHub.com/eymankun/{repo_name}/commit/)
+[![GitHub commits](https://badgen.net/github/commits/eymankun/reponame)](https://GitHub.com/eymankun/reponame/commit/)
 ```
 
 [![GitHub latest commit](https://badgen.net/github/last-commit/eymankun/genie)](ttps://GitHub.com/eymankun/genie/commit/)
 
 ```markdown
-[![GitHub latest commit](https://badgen.net/github/last-commit/eymankun/{repo_name})](ttps://GitHub.com/eymankun/{repo_name}/commit/)
+[![GitHub latest commit](https://badgen.net/github/last-commit/eymankun/reponame)](ttps://GitHub.com/eymankun/reponame/commit/)
 ```
 
-[![Naereen's github stats](https://github-readme-stats.vercel.app/api?username=eymankun&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+### Github branches
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eymankun&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Github branches](https://badgen.net/github/branches/eymankun/genie)](https://github.com/eymankun/genie)
 
-[![Naereen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=eymankun&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+```markdown
+[![Github branches](https://badgen.net/github/branches/eymankun/reponame)](https://github.com/eymankun/reponame)
+```
 
-## Gitlab related
+### Github Versions/Tags/Commits
+
+- Release
+
+[![GitHub release](https://img.shields.io/github/release/eymankun/speedtest.svg)](https://github.com/eymankun/speedtest/releases/)
+
+```markdown
+[![GitHub release](https://img.shields.io/github/release/eymankun/{reponame}.svg)](https://github.com/eymankun/{reponame}/releases/)
+```
+
+- Latest release
+
+[![Latest release](https://badgen.net/github/release/eymankun/speedtest)](https://github.com/eymankun/speedtest/releases/)
+
+```markdown
+[![Latest release](https://badgen.net/github/release/eymankun/{reponame})](https://github.com/eymankun/speedtest/reponame/)
+```
+
+- Github tag (shields.io)
+
+[![GitHub tag](https://img.shields.io/github/tag/eymankun/speedtest.svg)](https://GitHub.com/eymankun/speedtest/tags/)
+
+```markdown
+[![GitHub tag](https://img.shields.io/github/tag/eymankun/reponame.svg)](https://GitHub.com/eymankun/reponame/tags/)
+```
+
+- Github tag (badgen.net)
+
+[![Github tag](https://badgen.net/github/tag/eymankun/speedtest)](https://github.com/eymankun/speedtest/tags/)
+
+```markdown
+[![Github tag](https://badgen.net/github/tag/eymankun/reponame)](https://github.com/eymankun/reponame/tags/)
+```
+
+- Github commits (shields.io)
+
+[![GitHub commits](https://img.shields.io/github/commits-since/eymankun/speedtest/v0.1.0.svg)](https://GitHub.com/eymankun/speedtest/commit/)
+
+```markdown
+[![GitHub commits](https://img.shields.io/github/commits-since/eymankun/reponame/v0.1.0.svg)](https://GitHub.com/eymankun/reponame/commit/)
+```
+
+- Github commits (badgen.net)
+
+[![GitHub commits](https://badgen.net/github/commits/eymankun/speedtest)](https://GitHub.com/eymankun/speedtest/commit/)
+
+```markdown
+[![GitHub commits](https://badgen.net/github/commits/eymankun/reponame)](https://GitHub.com/eymankun/reponame/commit/)
+```
+
+- Github latest commit
+
+[![GitHub latest commit](https://badgen.net/github/last-commit/eymankun/speedtest)](https://GitHub.com/eymankun/speedtest/commit/)
+
+```markdown
+[![GitHub latest commit](https://badgen.net/github/last-commit/eymankun/reponame)](https://GitHub.com/eymankun/reponame/commit/)
+```
+
+### Github readme profile
+
+[![Eymankun's github stats](https://github-readme-stats.vercel.app/api?username=eymankun&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+```markdown
+[![Eymankun's github stats](https://github-readme-stats.vercel.app/api?username=eymankun&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+```
+
+[![Eymankun's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eymankun&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+```markdown
+[![Eymankun's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eymankun&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+```
+
+[![Eymankun's github streak](https://github-readme-streak-stats.herokuapp.com/?user=eymankun&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+```markdown
+[![Eymankun's github streak](https://github-readme-streak-stats.herokuapp.com/?user=eymankun&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+```
+
+[![Eymankun's github trophy](https://github-profile-trophy.vercel.app/?username=eymankun&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!-- ## Gitlab related
 
 ## Useful
 
-## Feedback
+## Feedback -->
 
 ## Markdown related
 
